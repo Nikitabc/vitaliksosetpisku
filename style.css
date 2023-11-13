@@ -1,0 +1,26 @@
+.block1 {
+    position: relative;
+    margin-top: 650px;
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
+.block2 {
+    position: relative;
+    margin-top: 300px;
+    margin-left: 50px;
+    width: 200px;
+    height: 200px;
+    background: red;
+}
+.wrapper {
+    display: flex;
+    justify-content: left;
+}
+button {
+    background: rgb(169, 169, 255);
+    width: 70px;
+    height: 40px;
+ 
+}
